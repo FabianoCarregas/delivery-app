@@ -1,9 +1,12 @@
 import './App.css';
-import Routes from './Routes';
+import Routes from './Footer/Routes';
+
 
 function App() {
-  return(
-   <Routes />
+  return (
+    <>
+    <Routes />
+    </>
   );
 }
 
