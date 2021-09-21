@@ -17,6 +17,7 @@ type Place = {
         lat: number;
         lng: number;
   };
+  
 }
 
 type Props = {
