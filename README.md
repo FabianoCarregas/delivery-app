@@ -1,22 +1,16 @@
 # Fab-lous-sales
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/FabianoCarregas/delivery-app/blob/master/LICENSE)
 
-# Fab-lous-sales   
-https:
+# Bx Delivery   
+"O menu pode levar um certo tempo para o carregamento dos produtos devido ao serviço gratuito do Heroku"
+https://deliveryfabapp.netlify.app/orders
 
 # Sobre o projeto
 
-A aplicação consiste em uma plataforma 
-
-## Layout mobile
-![Mobile 1](https
+A aplicação consiste em uma plataforma Web, que fornece o primeiros passos de uma aplicação de delivery de comida, ir para o menu, escolher itens, somar valor total dos itens, escolher endereço de entrega, finalizar compra.
+O projeto se trata de estudo fullstack, ministrado pelo Prof. Nelio Alves no qual se é abordado o desenvolvimento completo de um aplicado começando pelo backend; seed do banco de dados, hospedagem heroku, desenvolvimento front TS, integração com backend e BD, Deploy Netlify. Aonde foi possivel intender e por em pratica toda a arquitetura de uma aplicação. 
 
 ## Layout web
-![Web 1](https:)
-
-![Web 2](https:)
-
-![Web 2](https:)
 
 # Tecnologias utilizadas
 ## Back end
@@ -40,29 +34,6 @@ A aplicação consiste em uma plataforma
 ## Back end
 Pré-requisitos: Java 11
 
-```bash
-# clonar repositório
-git clone git clone https://github.c
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
 
 # Autor
 
