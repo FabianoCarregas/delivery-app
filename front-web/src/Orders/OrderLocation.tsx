@@ -25,13 +25,13 @@ type Props = {
 }
 
 function OrderLocation({ onChangeLocation }: Props) {
-
     const [address, setAddress] = useState<Place>({
         position: initialPosition
     });
 
-    const loadOptions = async (inputValue: string, callback: (places: Place[]) => void) => {
-        const response = await fetchLocalMapBox(inputValue);
+    const loadOptions = (inputValue: string, callback: (places: Place[]) => void) => {
+        const handleAync = async () => {
+            const response =await fetchLocalMapBox(inputValue);
       
         const places = response.data.features.map((item: any) => {
           return ({
@@ -46,7 +46,10 @@ function OrderLocation({ onChangeLocation }: Props) {
         });
       
         callback(places);
-      };
+      }
+
+      handleAync();
+    };
       
       const handleChangeSelect = (place: Place) => {
         setAddress(place);
@@ -67,7 +70,7 @@ function OrderLocation({ onChangeLocation }: Props) {
                     <AsyncSelect
                       placeholder="Digite o endereço para entregar o pedido"
                       className="filter"
-                      
+                      loadOptions={loadOptions}
                       onChange={value => handleChangeSelect(value as Place)}
                     />
                     </div>
