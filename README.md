@@ -18,7 +18,7 @@ O projeto se trata de estudo fullstack, ministrado pelo Prof. Nelio Alves no qua
 
 # Tecnologias utilizadas
 ## Back end
-- Java
+- Java 11
 - Spring Boot
 - JPA / Hibernate
 - Maven
@@ -32,10 +32,6 @@ O projeto se trata de estudo fullstack, ministrado pelo Prof. Nelio Alves no qua
 - Back end: Heroku
 - Front end web: Netlify
 - Banco de dados: Postgresql
-
-
-## Back end
-Pré-requisitos: Java 11
 
 
 # Autor
