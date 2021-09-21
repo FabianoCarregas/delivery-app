@@ -8,9 +8,13 @@ https://deliveryfabapp.netlify.app/orders
 # Sobre o projeto
 
 A aplicação consiste em uma plataforma Web, que fornece o primeiros passos de uma aplicação de delivery de comida, ir para o menu, escolher itens, somar valor total dos itens, escolher endereço de entrega, finalizar compra.
-O projeto se trata de estudo fullstack, ministrado pelo Prof. Nelio Alves no qual se é abordado o desenvolvimento completo de um aplicado começando pelo backend; seed do banco de dados, hospedagem heroku, desenvolvimento front TS, integração com backend e BD, Deploy Netlify. Aonde foi possivel intender e por em pratica toda a arquitetura de uma aplicação. 
+O projeto se trata de estudo fullstack, ministrado pelo Prof. Nelio Alves no qual se é abordado o desenvolvimento completo de uma aplicação começando pelo backend; seed do banco de dados, hospedagem heroku, desenvolvimento front TS, integração com backend e BD, Deploy Netlify. Aonde foi possivel intender e por em pratica toda a arquitetura de uma aplicação. 
 
 ## Layout web
+https://github.com/FabianoCarregas/delivery-app/blob/master/Assets/Home.png
+
+https://github.com/FabianoCarregas/delivery-app/blob/master/Assets/Order.png
+
 
 # Tecnologias utilizadas
 ## Back end
@@ -29,7 +33,6 @@ O projeto se trata de estudo fullstack, ministrado pelo Prof. Nelio Alves no qua
 - Front end web: Netlify
 - Banco de dados: Postgresql
 
-# Como executar o projeto
 
 ## Back end
 Pré-requisitos: Java 11
