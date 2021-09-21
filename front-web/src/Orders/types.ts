@@ -18,5 +18,5 @@ type ProductId = {
 
 export type OrderPayload = {
     products: ProductId[];
-}& OrderLocationdata;
+} & OrderLocationdata;
 
