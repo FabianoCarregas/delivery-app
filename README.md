@@ -11,9 +11,9 @@ A aplicação consiste em uma plataforma Web, que fornece o primeiros passos de 
 O projeto se trata de estudo fullstack, ministrado pelo Prof. Nelio Alves no qual se é abordado o desenvolvimento completo de uma aplicação começando pelo backend; seed do banco de dados, hospedagem heroku, desenvolvimento front TS, integração com backend e BD, Deploy Netlify. Aonde foi possivel intender e por em pratica toda a arquitetura de uma aplicação. 
 
 ## Layout web
-https://github.com/FabianoCarregas/delivery-app/blob/master/Assets/Home.png
+![Web 1](https://github.com/FabianoCarregas/delivery-app/blob/master/Assets/Home.png)
 
-https://github.com/FabianoCarregas/delivery-app/blob/master/Assets/Order.png
+![Web 2](https://github.com/FabianoCarregas/delivery-app/blob/master/Assets/Order.png)
 
 
 # Tecnologias utilizadas
