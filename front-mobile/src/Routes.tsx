@@ -10,7 +10,7 @@ function Routes() {
     return (
         <NavigationContainer>
             <Stack.Navigator
-            headerMode="none"
+           
             screenOptions={{
                 cardStyle:{
                     backgroundColor: '#FFF'
@@ -18,7 +18,7 @@ function Routes() {
             }}
             >
                 <Stack.Screen name="Home" component={Home}></Stack.Screen>
-                <Stack.Screen name="Order" component={Orders}></Stack.Screen>
+                <Stack.Screen name="Orders" component={Orders}></Stack.Screen>
             </Stack.Navigator>
         </NavigationContainer>
     )
