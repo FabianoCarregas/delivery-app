@@ -3,7 +3,7 @@
 
 # Bx Delivery   
 "O menu pode levar um certo tempo para o carregamento dos produtos devido ao serviço gratuito do Heroku"
-https://deliveryfabapp.netlify.app/orders
+https://deliveryfabapp.netlify.app
 
 # Sobre o projeto
 
